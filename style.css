@@ -5,8 +5,7 @@ body {
   background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 40px;
-}
+  
 nav a{
   padding: 10px;
 }
@@ -63,3 +62,10 @@ hr {
   border-width: 2px;
   
 }
+
+  /* Centers content of footer */
+  
+  footer {
+    margin: auto;
+    width: 600px;
+  }
